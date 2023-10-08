@@ -12,15 +12,31 @@ There should be a conda on your machine. Go to the project directory.
 
 ### env create
 
-```conda create --name ml_course python=3.7.6```
+``````bash
+conda create --name ml_course python=3.7.6
+``````
 
 ### env activate
 
-```conda activate ml_course```
+``````bash
+conda activate ml_course
+``````
 
 ### dependencies installing
 
-```pip install -r requirements.txt```
+``````bash
+pip install -r requirements.txt
+``````
+
+### start Jupyter notebook
+
+``````bash
+jupyter notebook
+``````
+
+## Acknowledge 
+
+The origin course is from [cousera](https://www.coursera.org/specializations/machine-learning-introduction) which shared by [啥都会一点的研究生](https://space.bilibili.com/46880349) with [repo](https://github.com/kaieye/2022-Machine-Learning-Specialization).
 
 
 

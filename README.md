@@ -34,7 +34,7 @@ pip install -r requirements.txt
 jupyter notebook
 ``````
 
-## Acknowledge 
+## Acknowledgement
 
 The origin course is from [cousera](https://www.coursera.org/specializations/machine-learning-introduction) which shared by [啥都会一点的研究生](https://space.bilibili.com/46880349) with [repo](https://github.com/kaieye/2022-Machine-Learning-Specialization).
 
